@@ -1,0 +1,124 @@
+.topnav {
+  background-color: yellow;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+} 
+.topnav a:hover {
+  background-color: blue;
+  color: black;
+}
+.topnav a.active {
+  background-color: red;
+  color: black;
+}
+body {
+    background-color: white;
+}
+header{
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#body {
+    background-color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+#profile h3{
+    text-align: center;
+    padding: 0px;
+    background-color: black;
+    color: white;
+    width: 407px;
+}
+#profile img{
+    margin-left: 0px;
+    border: 3px solid black;
+}
+#bio{
+    padding: 10px;
+    float: right;
+    width: 65%;
+    background-color: yellow;  
+}
+footer{
+    clear: both;
+    background-color: black;
+    color: white;
+    text-align: right;
+}
+p{
+    text-indent: 30px;
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+}
+#bio > ul 
+li:nth-child(1) {
+  color: red;
+}
+#bio li:nth-child(2) {
+  color: blue;
+}
+#bio li:nth-child(3) {
+  color: green;
+}
+#bio li span {
+  color: yellow;
+}
+#bio > ul li::before {
+  content: "\2022";
+  color: red;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1em;
+}
+.profile {
+  float: left;
+  width: 32%;
+  background-color: red;
+}
+  .image {
+  border-radius: 50%;
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  }
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .profile:hover .image {
+    opacity: 0.3;
+  }
+  
+  .profile:hover .middle {
+    opacity: 1;
+  }
+  
+  .text {
+    background-color: black;
+    color: yellow;
+    font-size: 16px;
+    padding: 16px 32px;
+  }
