@@ -1,0 +1,79 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="Lab css 03.css">
+        <title>Saul Goodman</title>
+    </head>
+    <div class="topnav">
+        <a class="active" href="BETTER CALL SAUL!.html">Home</a>
+        <a href="LAB 03.HTML">Saul Goodman</a>
+        <a href="Chuck lab 03.html">Chuck McGill</a>
+        <a href="Kim Wexler lab 03.html">Kim Wexler</a>
+        <a href="SALAMANCA.html">Hector Salamanca</a>
+      </div>
+      <style>
+    img {
+        border-radius: 50%;
+        opacity: 1;
+        display: block;
+        width: 100%;
+        height: auto;
+        transition: .5s ease;
+        backface-visibility: hidden;
+        }
+        
+        </style>
+    <body>
+            <div id="body">
+                <div class="profile">
+                    <img src="LLAMA A SAUL.png" title="Saul Goodman" alt="" usemap="#workmap" width="400" height="500"></a>
+                    <map name="workmap">
+                        <area target="" alt="" title="" href="https://breakingbad.fandom.com/wiki/Jimmy_McGill" coords="383,134,212" shape="circle">
+                    </map>
+                    <div class="middle">
+                        <div class="text">You Better Call Saul</div>
+                     </div>
+                    <h3>Saul Goodman</h3>
+                        <ul style="list-style-type: style type none;">
+                        <li>Public Defender</li>
+                        <li><a href = "mailto: abc@example.com">BetterCallSaul@gmail.com</a></li>
+                        <li><a href="http://bettercallsaul.amc.com/">http://bettercallsaul.amc.com/</a></li>
+                        <li>Assistant : <a href="https://breakingbad.fandom.com/wiki/Francesca_Liddy">Francesca Liddy</a>
+                    <ul>            
+                </div>
+                <div id="bio">
+                    <h1><u>Biography</u></h1>
+                    <p>
+                        James Morgan "Jimmy" McGill, better known by his professional alias and business moniker Saul Goodman, is an Irish-American criminal defense lawyer, scam artist, and convicted criminal who is serving an 86-year sentence at ADX Montrose. Originally from Cicero, Illinois during his career as a scam artist, Jimmy moved to Albuquerque, New Mexico where he worked as a lawyer, and later resided as a fugitive in Omaha, Nebraska before being caught and apprehended in a federal prison at Montrose, Colorado. During his law career, Jimmy embraced his tendencies as a former scam artist and, after becoming a dedicated and effective criminal lawyer, he began to represent criminals while he himself became increasingly involved in the city's criminal underworld, slowly losing his morality along the way. Despite his flamboyant appearance and mannerisms, Saul was a highly competent lawyer who was able to solve problems and find loopholes in order to protect his clients. His business name, "Saul Goodman," is a play on the phrase "it's all good, man."
+                    </p>
+                    <p>
+                        Dressing in flashy suits, Jimmy is the younger brother of fellow lawyer Chuck McGill and the ex-husband of former attorney Kim Wexler, the latter of whom helped inspire Jimmy to pursue his own law career alongside Chuck, and had dated for several years before their six-month marriage. Jimmy began his law career as an earnest lawyer, starting out practicing public defense and elder law before becoming a criminal defense lawyer. Before this, Jimmy was a low-level reprobate in his home town of Cicero with no serious ambitions or direction in life, wasting away his days with debauchery, bar tricks and small-time scams with his buddy Marco. Jimmy hit rock bottom when a particularly sordid incident lead to his arrest, but a dismayed Chuck was able to get him off the hook for all the charges. Faced with serious consequences for once, this was to be a major turning point for Jimmy, after which he decided to clean up his act and move to Albuquerque to take up honest work at his brother's firm. He originally worked as a mailroom clerk at Hamlin, Hamlin & McGill (HHM) alongside Kim. Meanwhile, unbeknownst to the partners, Jimmy studied via correspondence courses, gained a law degree from a diploma mill and eventually qualified as a lawyer. Jimmy then immediately applied for but was denied a position as an Associate attorney at the firm by Chuck and his partner Howard Hamlin. As a result, Jimmy quit HHM to set out on his own as a solo practitioner, working from a tiny makeshift office in the back room of a nail salon, After toiling for a long time on thankless public defender work, dead end cases and will-writing, Jimmy got his first big break with a class-action lawsuit against a retirement home chain. Jimmy worked together to build the increasingly complex Sandpiper case with Chuck, who persuaded him to refer the case out to HHM. For a second time Jimmy pushed for the chance to work for HHM and was again blocked by Chuck. Incensed, Jimmy resolved to burn the case to the ground rather than give it to HHM, and considered quitting the law altogether and returning to his old ways. However, after the sudden death of Marco, Jimmy was brought back to the fold by Kim, who persuaded Howard to recommend Jimmy for a job as an associate attorney at Davis & Main, HHM's co-counsel on the Sandpiper case, which Jimmy reluctantly accepts. Jimmy stubbornly rebelled against the corporate culture at the firm, clashing with the partners and was eventually fired by Clifford Main. Jimmy then established his own law firms; first with Kim at Wexler McGill and later establishing Saul Goodman & Associates. Jimmy was devastated by Chuck's revelation that he greatly resented his brother and believed him to be completely unfit to be a lawyer, which led to Chuck preventing Jimmy from being hired by HHM, later proceeding to create a majority of the obstacles Jimmy faces early on in his career, beginning Jimmy's rivalry with Howard, and causing Chuck to become unintentionally largely responsible for turning Jimmy into the criminally-inclined lawyer that he later becomes.
+                        </p>
+                    <h2><u>Other Titles</u></h2>
+                    <ul>
+                        <li>Mailman : <a href="https://breakingbad.fandom.com/wiki/Hamlin,_Hamlin_%26_McGill"><b>Hamlin, Hamlin & McGill</b></a></li>
+                        <li>Phone Salesman : <a href="https://breakingbad.fandom.com/wiki/CC_Mobile"><b>CC Mobile</b></a></li>
+                        <li>Business Owner : <a href="https://breakingbad.fandom.com/wiki/Lazer_Base"><b>Lazer Base</b></a></li>
+                        <li>Manager : <a href="https://www.cinnabon.com/"><b>Cinnabon</b></a></li>
+                    </ul>
+                    <h2><u>Affiliations</u></h2>
+                    <div id="colors">
+                    <ul>
+                        <li><i>Hamlin Hamlin & McGill</i></li>
+                        <li><i>Schweikart & Cokely</i></li>
+                        <li><i>A1A Car Wash</i></li>
+                        <li><i>Mesa Verde Bank</i></li>
+                    </div>
+                    </ul>
+                    <h2><u>Contacts</u></h2>
+                    <ol>
+                        <li><a href="Chuck lab 03.html">Chuck McGill</a></li>
+                        <li><a href="Kim Wexler lab 03.html">Kim Wexler</a></li>
+                    </ol>
+                </div>
+            </div>
+            <footer>
+                <u>&copy Better Call Saul</u>
+            </footer>
+        </div>
+    </body>
+</html>
